@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV--1综合,http://ott.mobaibox.com/PLTV/*/224/3221228581/index.m3u8
+CCTV-1综合,http://ott.mobaibox.com/PLTV/*/224/3221228581/index.m3u8
 CCTV-1综合,http://ott.mobaibox.com/PLTV/3/224/3221228732/index.m3u8
 CCTV-2财经,http://ott.mobaibox.com/PLTV/*/224/3221228094/index.m3u8
 CCTV-2财经,http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
