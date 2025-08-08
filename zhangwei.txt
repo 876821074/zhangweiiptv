@@ -10,7 +10,7 @@ CCTV-5体育,http://ott.mobaibox.com/PLTV/*/224/3221228502/index.m3u8
 CCTV-5+体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
 CCTV-6电影,http://ott.mobaibox.com/PLTV/*/224/3221228516/index.m3u8
 CCTV-7国防军事,http://ott.mobaibox.com/PLTV/*/224/3221227626/index.m3u8
-CCTV-7 国防军事,http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
+CCTV-7国防军事,http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
 CCTV-8电视剧,http://ott.mobaibox.com/PLTV/*/224/3221228578/index.m3u8
 CCTV-9纪录,http://ott.mobaibox.com/PLTV/*/224/3221227614/index.m3u8
 CCTV-10科教,http://ott.mobaibox.com/PLTV/*/224/3221227620/index.m3u8
@@ -88,15 +88,6 @@ CGTN纪录,http://ott.mobaibox.com/PLTV/*/224/3221227574/index.m3u8
 江苏新闻,http://ott.mobaibox.com/PLTV/*/224/3221228743/index.m3u8
 江苏教育,http://ott.mobaibox.com/PLTV/*/224/3221228769/index.m3u8
 江苏教育,http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
-江苏文艺广播FM91.4,http://ott.mobaibox.com/PLTV/*/224/3221227987/1.m3u8
-江苏健康广播FM100.5,http://ott.mobaibox.com/PLTV/*/224/3221227952/1.m3u8
-江苏音乐台FM89.7,http://ott.mobaibox.com/PLTV/*/224/3221227949/1.m3u8
-江苏交通广播网FM101.1,http://ott.mobaibox.com/PLTV/*/224/3221227937/1.m3u8
-江苏经典流行音乐FM97.5,http://ott.mobaibox.com/PLTV/*/224/3221227943/index.m3u8
-江苏财经广播FM95.2,http://ott.mobaibox.com/PLTV/*/224/3221227946/index.m3u8
-江苏新闻广播FM93.7,http://ott.mobaibox.com/PLTV/*/224/3221227984/index.m3u8
-江苏故事广播FM104.9,http://ott.mobaibox.com/PLTV/*/224/3221227990/index.m3u8
-金陵之声FM99.7,http://ott.mobaibox.com/PLTV/*/224/3221227940/index.m3u8
 南京影视,http://ott.mobaibox.com/PLTV/*/224/3221227719/index.m3u8
 南京教科,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
 南京十八,http://ott.mobaibox.com/PLTV/*/224/3221227178/index.m3u8
@@ -168,6 +159,9 @@ CGTN纪录,http://ott.mobaibox.com/PLTV/*/224/3221227574/index.m3u8
 卡酷少儿,http://ott.mobaibox.com/PLTV/*/224/3221227566/index.m3u8
 优漫卡通,http://ott.mobaibox.com/PLTV/*/224/3221227577/index.m3u8
 金鹰卡通,http://ott.mobaibox.com/PLTV/*/224/3221227630/index.m3u8
+动漫星空,http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
+儿童天地,http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
+亲宝玩具,http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
 NewTV,#genre#
 炫舞未来,http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 热播精选,http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
@@ -204,9 +198,6 @@ NewTV,#genre#
 黑莓电影,http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 黑莓动画,http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 动物世界,http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
-动漫星空,http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
-儿童天地,http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
-亲宝玩具,http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
 自然地理,http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
 怀旧MTV,http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
